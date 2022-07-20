@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d16d197-bf35-41b0-b55c-98a33c123721" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JS/step2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/step1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/step1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +44,16 @@
       <recent name="C:\Users\Admin\Desktop\StudyJavaScript\JS" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.step2.js">
     <configuration name="step1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/step1.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="step2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/step2.js" working-dir="$PROJECT_DIR$/JS">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.step2.js" />
         <item itemvalue="Node.js.step1.js" />
       </list>
     </recent_temporary>
@@ -66,7 +71,8 @@
       <workItem from="1658136649559" duration="4378000" />
       <workItem from="1658215348082" duration="5134000" />
       <workItem from="1658221015237" duration="2245000" />
-      <workItem from="1658229598228" duration="6076000" />
+      <workItem from="1658229598228" duration="14415000" />
+      <workItem from="1658286678234" duration="587000" />
     </task>
     <servers />
   </component>
